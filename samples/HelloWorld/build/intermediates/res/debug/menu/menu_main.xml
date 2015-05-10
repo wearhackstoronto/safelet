@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.thalmic.android.sample.helloworld.MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
+<!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/menu/menu_main.xml -->

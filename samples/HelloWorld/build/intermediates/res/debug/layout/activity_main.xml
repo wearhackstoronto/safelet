@@ -1,0 +1,38 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/startLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/turq">
+
+    <TextView
+        android:id="@+id/appTitle"
+        android:text="SafeLet"
+        android:textSize="65sp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"     />
+
+
+
+
+    <Button
+        android:id = "@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="10dp"
+        android:onClick="startScreen"
+        android:background="@drawable/castle"/>
+
+
+
+
+
+</LinearLayout>
+<!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/layout/activity_main.xml -->

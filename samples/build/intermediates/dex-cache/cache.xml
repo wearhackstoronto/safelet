@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-d9a3a5bdd123af080bdff4487a18fc48a52ed698.jar" />
+    </item>
+    <item
+        jar="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes-c899ea93d145ec20748aecad2fbc2204025d797d.jar" />
+    </item>
+    <item
+        jar="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\native-libs-bf5b9fadcfeab841f914920cd0ea994e45942671.jar" />
+    </item>
+    <item
+        jar="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes-b47572351edb202d08ec433b647a32d9fb36cfca.jar" />
+    </item>
+    <item
+        jar="C:\Users\magicKaftan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-a3316d4e74bf3f6ddd73f02cbc98c074a885a3fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.0.30\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="C:\Users\magicKaftan\Desktop\software\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes-2373635a87294a6afbba71bff7f9f7c281c9850a.jar" />
+    </item>
+
+</items>

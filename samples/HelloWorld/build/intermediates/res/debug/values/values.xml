@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/values/wear.xml -->
+    <eat-comment/>
+    <string-array name="android_wear_capabilities">
+        <item>voice_transcription</item>
+    </string-array>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="chocolate">#998B82</color>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="green_dark">#AFC7B9</color>
+    <color name="green_light">#D6E2DB</color>
+    <color name="green_text">#79A28A</color>
+    <color name="holo_blue">#33b5e5</color>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="myosdk__button_orange">#FF8000</color>
+    <color name="myosdk__button_red">#AE0922</color>
+    <color name="myosdk__indicator_green">#24C75A</color>
+    <color name="myosdk__thalmic_blue">#00BCDD</color>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="ocean">#789EB1</color>
+    <color name="red_orange_dark">#F9B499</color>
+    <color name="red_orange_light">#FDDFD5</color>
+    <color name="red_orange_text">#F98C68</color>
+    <color name="stormcloud_text">#C3C3C3</color>
+    <color name="turq">#207378</color>
+    <color name="very_lightgray">#E6E6E6</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="myosdk__activity_horizontal_margin">16dp</dimen>
+    <dimen name="myosdk__activity_vertical_margin">16dp</dimen>
+    <dimen name="myosdk__fragment_scan_window_height">0dp</dimen>
+    <dimen name="myosdk__fragment_scan_window_width">0dp</dimen>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">4030500</integer>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Hello World</string>
+    <string name="arm_left">Left Arm</string>
+    <string name="arm_right">Right Arm</string>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="auth_client_needs_enabling_title">
+      An application requires Google Play Services to be enabled.
+  </string>
+    <string name="auth_client_needs_installation_title">
+      An application requires installation of Google Play Services.
+  </string>
+    <string name="auth_client_needs_update_title">
+      An application requires an update for Google Play Services.
+  </string>
+    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
+    <string name="auth_client_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string name="auth_client_using_bad_version_title">
+      An application attempted to use a bad version of Google Play Services.
+  </string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <string name="locked">Locked</string>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="myosdk__action_scan">Scan</string>
+    <string name="myosdk__action_stop_scan">Stop Scan</string>
+    <string name="myosdk__firmware_required_format">Required: %s or newer</string>
+    <string name="myosdk__firmware_version_format">Version: %s</string>
+    <string name="myosdk__title_activity_scan">Choose a Myo</string>
+    <string name="myosdk__unknown_myo">Unknown Myo</string>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="pose_doubletap">Double Tap</string>
+    <string name="pose_fingersspread">Fingers Spread</string>
+    <string name="pose_fist">Fist</string>
+    <string name="pose_rest">Rest</string>
+    <string name="pose_wavein">Wave In</string>
+    <string name="pose_waveout">Wave Out</string>
+    <string name="scan">Scan</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="unlocked">Unlocked</string>
+    <!-- From: file:/C:/Users/magicKaftan/Desktop/software/myo-android-sdk-0.10.0/samples/HelloWorld/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="myosdk__PopupActivityTheme" parent="android:Theme.Holo.Light.Dialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowActionModeOverlay">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="myosdk__ScanActivityTheme" parent="android:Theme.Holo.Light"/>
+</resources>
