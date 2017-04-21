@@ -184,7 +184,7 @@ public class HelloWorldActivity extends Activity {
                 smsManager.sendTextMessage("4167054985", null, "I might be in trouble. Current Coordinates :43.659913N , -79.38863900000001 S", null, null);
 
                 //SmsManager smsManager1 = SmsManager.getDefault();
-                smsManager.sendTextMessage("6478348213", null, "I might be in trouble. Current Coordinates :43.659913N , -79.38863900000001 S", null, null);
+                smsManager.sendTextMessage("6478348212", null, "I might be in trouble. Current Coordinates :43.659913N , -79.38863900000001 S", null, null);
 
 
                 FSMstarted=0;
